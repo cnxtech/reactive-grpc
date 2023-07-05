@@ -57,7 +57,7 @@
     <properties>
         <!-- Dependency Versions -->
         <reactive.streams.version>1.0.2</reactive.streams.version>
-        <grpc.version>1.19.0</grpc.version>
+        <grpc.version>1.53.0</grpc.version>
         <protoc.version>3.6.1</protoc.version> <!-- Same version as grpc-proto -->
         <protobuf.plugin.version>0.6.1</protobuf.plugin.version>
         <compiler.plugin.version>3.8.0</compiler.plugin.version>
